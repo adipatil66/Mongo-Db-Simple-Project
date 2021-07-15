@@ -1,0 +1,7 @@
+mongo Commands
+
+mongo
+show dbs
+use mydbs
+show collections
+db.collectionName.find()
